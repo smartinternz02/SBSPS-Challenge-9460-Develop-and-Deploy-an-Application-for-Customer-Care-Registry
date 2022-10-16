@@ -6,7 +6,7 @@ apllication link -https://customercareregistry-narayanagudiwada-dev.apps.sandbox
 
 agent-https://customercareregistry-narayanagudiwada-dev.apps.sandbox-m2.ll9k.p1.openshiftapps.com/agent
 
-admin-https://customercareregistry-narayanagudiwada-dev.apps.sandbox-m2.ll9k.p1.openshiftapps.com/
+admin-https://customercareregistry-narayanagudiwada-dev.apps.sandbox-m2.ll9k.p1.openshiftapps.com/admin
 
 
 credentials:
