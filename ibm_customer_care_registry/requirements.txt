@@ -1,0 +1,4 @@
+Flask
+ibm-db
+requests
+pandas
