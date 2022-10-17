@@ -5,11 +5,12 @@ Develop and Deploy an Application for Customer Care Registry
 
 Demonstration video link - https://youtu.be/eV9s9XlHqWA
 
-apllication link -https://customercareregistry-narayanagudiwada-dev.apps.sandbox-m2.ll9k.p1.openshiftapps.com/
+apllication link -https://customer-careregistry-narayanagudiwada-dev.apps.sandbox-m2.ll9k.p1.openshiftapps.com/
 
-agent-https://customercareregistry-narayanagudiwada-dev.apps.sandbox-m2.ll9k.p1.openshiftapps.com/agent
 
-admin-https://customercareregistry-narayanagudiwada-dev.apps.sandbox-m2.ll9k.p1.openshiftapps.com/admin
+agent-https://customer-careregistry-narayanagudiwada-dev.apps.sandbox-m2.ll9k.p1.openshiftapps.com/agent
+
+admin-https://customer-careregistry-narayanagudiwada-dev.apps.sandbox-m2.ll9k.p1.openshiftapps.com/admin
 
 
 credentials:
