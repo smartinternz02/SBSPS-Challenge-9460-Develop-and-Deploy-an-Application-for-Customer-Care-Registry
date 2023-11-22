@@ -10,15 +10,4 @@ apllication link -https://customer-careregistry-narayanagudiwada-dev.apps.sandbo
 
 agent-https://customer-careregistry-narayanagudiwada-dev.apps.sandbox-m2.ll9k.p1.openshiftapps.com/agent
 
-admin-https://customer-careregistry-narayanagudiwada-dev.apps.sandbox-m2.ll9k.p1.openshiftapps.com/admin
-
-
-credentials:
-
-admin:
-admin1@gmail.com
-admintest1
-
-agent:
-dummy@gmail.com
-pass
+admin-https://customer-careregistry-narayanagudiwada-dev.apps.sandbox-m2.ll9k.p1.openshiftapps.com/admi
